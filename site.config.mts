@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { Camera, Instagram } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -8,19 +8,19 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'AC',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Moments by Andrew',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
-			icon: Github,
+			name: 'Home',
+			url: 'https://momentsbyandrew.com',
+			icon: Camera,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/capi2lo/',
 			icon: Instagram,
 		} as SocialLink,
 	],

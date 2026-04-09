@@ -1,90 +1,288 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: family
+    name: Family
+  - id: friends
+    name: Friends
+  - id: facet
+    name: Facet
+
 images:
-  - path: nature/nature-2.jpg
+  - path: family/L1002174.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: L1002174
+      description: ""
       collections:
-        - nature
+        - family
     exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
+
+  - path: family/nature-1.jpg
     meta:
       title: Nature 1
-      description: ''
+      description: ""
       collections:
-        - nature
+        - family
+    exif: {}
+
+  - path: family/nature-2.jpg
+    meta:
+      title: Nature 2
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/nature-3.jpg
+    meta:
+      title: Nature 3
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/nature-5.jpg
+    meta:
+      title: Nature 5
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/nature-7.jpg
+    meta:
+      title: Nature 7
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/nature-8.jpg
+    meta:
+      title: Nature 8
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/nature-10.jpg
+    meta:
+      title: Nature 10
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: friends/stree-1.jpg
+    meta:
+      title: Friends 1
+      description: ""
+      collections:
+        - friends
+    exif: {}
+
+  - path: facet/L-1-2.jpg
+    meta:
+      title: L-1-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-3-2.jpg
+    meta:
+      title: L-3-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-6.jpg
+    meta:
+      title: L-6
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-7-2.jpg
+    meta:
+      title: L-7-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-8.jpg
+    meta:
+      title: L-8
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-9-2.jpg
+    meta:
+      title: L-9-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-11.jpg
+    meta:
+      title: L-11
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-12.jpg
+    meta:
+      title: L-12
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-14-2.jpg
+    meta:
+      title: L-14-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-16-2.jpg
+    meta:
+      title: L-16-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-17-2.jpg
+    meta:
+      title: L-17-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-18-2.jpg
+    meta:
+      title: L-18-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-19-2.jpg
+    meta:
+      title: L-19-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-20-2.jpg
+    meta:
+      title: L-20-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-21-2.jpg
+    meta:
+      title: L-21-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-22-2.jpg
+    meta:
+      title: L-22-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-23-2.jpg
+    meta:
+      title: L-23-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-24.jpg
+    meta:
+      title: L-24
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-27-2.jpg
+    meta:
+      title: L-27-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-28-2.jpg
+    meta:
+      title: L-28-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-29-2.jpg
+    meta:
+      title: L-29-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-31-2.jpg
+    meta:
+      title: L-31-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-32-2.jpg
+    meta:
+      title: L-32-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-33.jpg
+    meta:
+      title: L-33
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-34-2.jpg
+    meta:
+      title: L-34-2
+      description: ""
+      collections:
+        - facet
+    exif: {}
+
+  - path: facet/L-35.jpg
+    meta:
+      title: L-35
+      description: ""
+      collections:
+        - facet
     exif: {}
