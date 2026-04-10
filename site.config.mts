@@ -11,7 +11,7 @@ export default {
 	title: 'AC',
 	favicon: 'favicon.ico',
 	owner: 'Moments by Andrew',
-	profileImage: 'profile.webp',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'Home',
