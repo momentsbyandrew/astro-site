@@ -111,6 +111,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-8.jpg
@@ -256,6 +257,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-32-2.jpg
