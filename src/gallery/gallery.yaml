@@ -7,65 +7,161 @@ collections:
     name: Facet
 
 images:
-  - path: family/L1002174.jpg
+  - path: family/family-1.jpg
     meta:
-      title: L1002174
+      title: Family 1
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-1.jpg
+  - path: family/family-2.jpg
     meta:
-      title: Nature 1
+      title: Family 2
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-2.jpg
+  - path: family/family-3.jpg
     meta:
-      title: Nature 2
+      title: Family 3
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-3.jpg
+  - path: family/family-4.jpg
     meta:
-      title: Nature 3
+      title: Family 4
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-5.jpg
+  - path: family/family-5.jpg
     meta:
-      title: Nature 5
+      title: Family 5
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-7.jpg
+  - path: family/family-6.jpg
     meta:
-      title: Nature 7
+      title: Family 6
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-8.jpg
+  - path: family/family-7.jpg
     meta:
-      title: Nature 8
+      title: Family 7
       description: ""
       collections:
         - family
     exif: {}
 
-  - path: family/nature-10.jpg
+  - path: family/family-8.jpg
     meta:
-      title: Nature 10
+      title: Family 8
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-9.jpg
+    meta:
+      title: Family 9
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-10.jpg
+    meta:
+      title: Family 10
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-11.jpg
+    meta:
+      title: Family 11
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-12.jpg
+    meta:
+      title: Family 12
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-13.jpg
+    meta:
+      title: Family 13
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-14.jpg
+    meta:
+      title: Family 14
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-15.jpg
+    meta:
+      title: Family 15
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-16.jpg
+    meta:
+      title: Family 16
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-17.jpg
+    meta:
+      title: Family 17
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-18.jpg
+    meta:
+      title: Family 18
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-19.jpg
+    meta:
+      title: Family 19
+      description: ""
+      collections:
+        - family
+    exif: {}
+
+  - path: family/family-20.jpg
+    meta:
+      title: Family 20
       description: ""
       collections:
         - family
