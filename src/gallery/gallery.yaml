@@ -85,6 +85,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-3-2.jpg
@@ -93,6 +94,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-6.jpg
@@ -245,6 +247,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-31-2.jpg
@@ -269,6 +272,7 @@ images:
       description: ""
       collections:
         - facet
+        - featured
     exif: {}
 
   - path: facet/L-34-2.jpg
